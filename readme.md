@@ -39,4 +39,4 @@ Rendering exceptions are caught and displayed using alert:
 * Templates are compiled server side on startup
 * No JavaScript runtime is required in the browser
 * Executable JavaScript functions are provided in the browser
-* An alternative is to put underscore templates server side
+* An alternative is to use underscore templates in express, see the module [uinexpress](https://github.com/haraldrudell/uinexpress)
