@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/haraldrudell/ejsinbrowser.png)](http://travis-ci.org/haraldrudell/ejsinbrowser)
 # ejsinbrowser
 Packages ejs templates in an external javascript file so they can be rendered in the browser with no runtime overhead.
 # Usage
